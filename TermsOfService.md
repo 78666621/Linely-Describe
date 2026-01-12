@@ -87,5 +87,4 @@ If you do not agree, stop using and uninstall the app.
 ## 9. Contact
 If you have questions, contact: <78666621@qq.com>
 
-
 Effective Date: 2026-01-12  

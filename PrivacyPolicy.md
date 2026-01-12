@@ -40,7 +40,6 @@ Linely 不提供账号注册/登录功能，也不使用广告追踪或第三方
 
 ## 9. 联系我们
 如对本政策有任何疑问，请联系：<78666621@qq.com>
-Developer: <刘林>  
 生效日期：2026-01-12  
 
 ---
@@ -88,5 +87,4 @@ If features change (e.g., new data processing is introduced), we may update this
 
 ## 9. Contact
 If you have any questions, contact: <78666621@qq.com>
-Developer: <liulin>  
 Effective Date: 2026-01-12  
