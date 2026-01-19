@@ -23,7 +23,8 @@ Linely 不提供账号注册/登录功能，也不使用广告追踪或第三方
 
 ## 4. 权限说明
 为实现功能，Linely 可能会向你请求以下系统权限（你可随时在系统设置中关闭）：
-- **相册权限**：用于从相册选择图片添加到事件，或将海报图片保存到相册。
+- **相册权限**：用于从相册选择图片添加到事件或纪念日，或将生成的海报保存到相册。例如，你可以为某个纪念日选择一张相册照片作为封面，或将纪念日/事件海报保存到照片。
+- **相机权限**：用于在应用内拍摄照片并添加到事件或纪念日。例如，你可以在创建纪念日时直接拍照作为封面。
 - **通知权限**：用于发送纪念日提醒通知（本地通知）。
 
 ## 5. 内购（StoreKit）
@@ -40,7 +41,8 @@ Linely 不提供账号注册/登录功能，也不使用广告追踪或第三方
 
 ## 9. 联系我们
 如对本政策有任何疑问，请联系：<78666621@qq.com>
-生效日期：2026-01-12  
+Developer: <刘林>  
+生效日期：2026-01-20  
 
 ---
 
@@ -70,7 +72,8 @@ Only to provide core features, such as:
 
 ## 4. Permissions
 Linely may request system permissions (you can change them anytime in Settings):
-- **Photos**: to select images from your library or save exported posters to Photos.
+- **Photos**: to select images from your library for events or anniversaries, or to save generated posters to Photos. For example, you can choose a photo as an anniversary cover or save an anniversary/event poster to your library.
+- **Camera**: to take photos within the app and attach them to events or anniversaries. For example, you can take a photo when creating an anniversary and use it as the cover.
 - **Notifications**: to deliver anniversary reminders (local notifications).
 
 ## 5. In‑app purchases (StoreKit)
@@ -87,4 +90,5 @@ If features change (e.g., new data processing is introduced), we may update this
 
 ## 9. Contact
 If you have any questions, contact: <78666621@qq.com>
-Effective Date: 2026-01-12  
+Developer: <liulin>  
+Effective Date: 2026-01-20  
