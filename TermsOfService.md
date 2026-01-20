@@ -20,9 +20,12 @@ Linely 是一款时间线与纪念日管理工具，提供记录、展示、提�
 你对你在 Linely 中创建、导入或保存的内容承担全部责任，并保证你拥有相关权利或已获得必要授权（例如你导入的图片不侵犯他人权益）。  
 请妥善保管你的设备与 Apple ID 账户信息。因你自身原因导致的数据丢失、泄露或不可用（例如误删、设备丢失、iCloud 关闭等），我们不承担责任。
 
-## 5. 付费功能（一次性买断）
-Linely 提供一次性买断的高级功能（如有），具体价格、结算与退款规则以 App Store 展示与 Apple 政策为准。  
-你可以在应用内使用“恢复购买”来恢复已购买的高级权益（前提是使用同一 Apple ID 并满足 Apple 的相关规则）。
+## 5. 付费功能
+1. Linely 提供一次性买断的高级功能，具体价格、支付及退款规则以 App Store 展示内容及 Apple 官方政策为准。 
+
+2. Linely 提供年度自动续期订阅服务，具体价格、支付及退款规则以 App Store 展示内容及 Apple 官方政策为准。    
+
+   【订阅提示】订阅周期为 1 年，到期前 24 小时内 Apple 会自动从您的 Apple ID 扣费并延长订阅周期；您可在 App Store 设置中随时取消自动续费。 您可在应用内的「我的/设置」页面点击「恢复购买」按钮，恢复已购买的高级权益（需使用购买时的同一 Apple ID，且符合 Apple 相关规则）。
 
 ## 6. 禁止行为
 你同意不会以任何方式：
@@ -41,7 +44,7 @@ Linely 提供一次性买断的高级功能（如有），具体价格、结算�
 ## 9. 联系我们
 如对本协议有任何疑问，请联系：<78666621@qq.com>
 
-生效日期：2026-01-12  
+生效日期：2026-01-20 
 ---
 
 # Terms of Service (English)
@@ -66,9 +69,14 @@ The app may request system permissions (you can change them anytime in Settings)
 You are responsible for any content you create, import, or store in Linely, and you represent that you have the necessary rights/authorizations (e.g., images you import do not infringe others’ rights).  
 Please safeguard your device and Apple ID. We are not responsible for data loss, disclosure, or unavailability caused by factors under your control (e.g., deletion, lost device, iCloud disabled).
 
-## 5. Premium Purchase (One‑time)
-Linely may offer a one‑time purchase to unlock premium features. Pricing, billing, and refunds are handled by the App Store and subject to Apple’s policies.  
-You can use “Restore Purchases” to restore previously purchased entitlements (subject to Apple’s rules and the same Apple ID).
+## 5. Premium Purchase 
+1. Linely offers a one-time purchase option for premium features. The specific price, payment and refund policies are subject to the display on the App Store and Apple's official policies. 
+
+2. Linely provides an auto-renewable annual subscription service. The specific price, payment and refund policies are subject to the display on the App Store and Apple's official policies.    
+
+   【Subscription Reminder】The subscription cycle is 1 year. Apple will automatically charge your Apple ID and extend the subscription period within 24 hours before expiration. You can cancel auto-renewal at any time in your App Store settings. 
+
+   You can tap the "Restore Purchases" button on the "My/Settings" page in the app to restore purchased premium benefits (requires the same Apple ID used for purchase and compliance with Apple's relevant rules).
 
 ## 6. Prohibited Conduct
 You agree not to:
@@ -87,4 +95,4 @@ If you do not agree, stop using and uninstall the app.
 ## 9. Contact
 If you have questions, contact: <78666621@qq.com>
 
-Effective Date: 2026-01-12  
+Effective Date: 2026-01-20  
