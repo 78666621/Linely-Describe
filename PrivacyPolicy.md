@@ -28,7 +28,7 @@ Linely 不提供账号注册/登录功能，也不使用广告追踪或第三方
 - **通知权限**：用于发送纪念日提醒通知（本地通知）。
 
 ## 5. 内购（StoreKit）
-如你选择购买高级功能，交易由 Apple 通过 App Store 处理。我们不会获取你的支付信息。App 仅会在本地读取必要的购买结果状态，用于解锁功能与恢复购买。
+如你选择购买高级功能（一次性买断或订阅），交易由 Apple 通过 App Store 处理。我们不会获取你的支付信息。App 仅会在本地读取必要的购买结果状态，用于解锁功能与恢复购买。
 
 ## 6. 信息共享
 我们不会向第三方出售、出租或以其他方式披露你的内容。除 iCloud/StoreKit 等 Apple 系统服务为实现功能所必需的处理外，我们不会与第三方共享你的数据。
@@ -77,7 +77,7 @@ Linely may request system permissions (you can change them anytime in Settings):
 - **Notifications**: to deliver anniversary reminders (local notifications).
 
 ## 5. In‑app purchases (StoreKit)
-Purchases are processed by Apple via the App Store. We do not receive your payment details. The app only reads necessary purchase status locally to unlock features and restore purchases.
+Purchases (one-time or subscription) are processed by Apple via the App Store. We do not receive your payment details. The app only reads necessary purchase status locally to unlock features and restore purchases.
 
 ## 6. Data sharing
 We do not sell or share your content with third parties. Except for Apple system services (iCloud/StoreKit) required to provide features, we do not share your data with any third party.

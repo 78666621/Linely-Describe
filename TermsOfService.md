@@ -14,6 +14,7 @@ Linely 是一款时间线与纪念日管理工具，提供记录、展示、提�
 ## 3. 权限与功能
 为实现功能，应用可能请求系统权限（你可在系统设置中随时调整）：
 - 相册：用于选择图片或保存海报图片到相册；
+- 相机：用于拍摄照片并添加到事件或纪念日；
 - 通知：用于纪念日提醒（本地通知）。
 
 ## 4. 你的内容与责任
@@ -63,6 +64,7 @@ If you enable iCloud Sync for Linely, the app uses Apple’s iCloud/CloudKit to 
 ## 3. Permissions
 The app may request system permissions (you can change them anytime in Settings), including:
 - Photos: to pick images or save exported posters to Photos;
+- Camera: to take photos and attach them to events or anniversaries;
 - Notifications: for anniversary reminders (local notifications).
 
 ## 4. Your Content & Responsibility
