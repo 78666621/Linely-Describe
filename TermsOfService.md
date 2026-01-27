@@ -10,6 +10,7 @@ Linely 是一款时间线与纪念日管理工具，提供记录、展示、提�
 ## 2. 数据存储与 iCloud 同步
 你在应用内创建的内容（如事件、纪念日、备注、标签、图片等）默认存储在你的设备本地。  
 当你在系统中为 Linely 启用 iCloud 同步时，应用会使用 Apple 的 iCloud/CloudKit 将数据同步到你自己的 iCloud 账户，以便跨设备一致。iCloud 服务由 Apple 提供并受其条款约束。
+你设置的头像与昵称仅保存在你的设备本地，不参与 iCloud 同步。
 
 ## 3. 权限与功能
 为实现功能，应用可能请求系统权限（你可在系统设置中随时调整）：
@@ -18,7 +19,7 @@ Linely 是一款时间线与纪念日管理工具，提供记录、展示、提�
 - 通知：用于纪念日提醒（本地通知）。
 
 ## 4. 你的内容与责任
-你对你在 Linely 中创建、导入或保存的内容承担全部责任，并保证你拥有相关权利或已获得必要授权（例如你导入的图片不侵犯他人权益）。  
+你对你在 Linely 中创建、导入或保存的内容承担全部责任，并保证你拥有相关权利或已获得必要授权（例如你导入的图片不侵犯他人权益）。头像与昵称属于你自行设置的内容。  
 请妥善保管你的设备与 Apple ID 账户信息。因你自身原因导致的数据丢失、泄露或不可用（例如误删、设备丢失、iCloud 关闭等），我们不承担责任。
 
 ## 5. 付费功能
@@ -45,7 +46,7 @@ Linely 是一款时间线与纪念日管理工具，提供记录、展示、提�
 ## 9. 联系我们
 如对本协议有任何疑问，请联系：<78666621@qq.com>
 
-生效日期：2026-01-20 
+生效日期：2026-01-27 
 ---
 
 # Terms of Service (English)
@@ -60,6 +61,7 @@ The app does not provide account registration/login, and we do not operate a dev
 ## 2. Data Storage & iCloud Sync
 Content you create in Linely (e.g., events, anniversaries, notes, tags, images) is stored locally on your device by default.  
 If you enable iCloud Sync for Linely, the app uses Apple’s iCloud/CloudKit to sync data to your own iCloud account for cross‑device consistency. iCloud is provided by Apple and governed by Apple’s terms.
+Your avatar and nickname are stored only on your device and are not synced via iCloud.
 
 ## 3. Permissions
 The app may request system permissions (you can change them anytime in Settings), including:
@@ -68,7 +70,7 @@ The app may request system permissions (you can change them anytime in Settings)
 - Notifications: for anniversary reminders (local notifications).
 
 ## 4. Your Content & Responsibility
-You are responsible for any content you create, import, or store in Linely, and you represent that you have the necessary rights/authorizations (e.g., images you import do not infringe others’ rights).  
+You are responsible for any content you create, import, or store in Linely, and you represent that you have the necessary rights/authorizations (e.g., images you import do not infringe others’ rights). Your avatar and nickname are content you set yourself.  
 Please safeguard your device and Apple ID. We are not responsible for data loss, disclosure, or unavailability caused by factors under your control (e.g., deletion, lost device, iCloud disabled).
 
 ## 5. Premium Purchase 
@@ -97,4 +99,4 @@ If you do not agree, stop using and uninstall the app.
 ## 9. Contact
 If you have questions, contact: <78666621@qq.com>
 
-Effective Date: 2026-01-20  
+Effective Date: 2026-01-27  
