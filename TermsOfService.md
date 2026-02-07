@@ -14,12 +14,13 @@ Linely 是一款时间线与纪念日管理工具，提供记录、展示、提�
 
 ## 3. 权限与功能
 为实现功能，应用可能请求系统权限（你可在系统设置中随时调整）：
-- 相册：用于选择图片或保存海报图片到相册；
+- 相册：用于选择图片（含个人头像）、保存海报图片到相册；
 - 相机：用于拍摄照片并添加到事件或纪念日；
+- 通讯录：仅用于读取联系人姓名与生日，以便你一键添加「XX的生日」为纪念日；我们不上传、不存储你的通讯录；
 - 通知：用于纪念日提醒（本地通知）。
 
 ## 4. 你的内容与责任
-你对你在 Linely 中创建、导入或保存的内容承担全部责任，并保证你拥有相关权利或已获得必要授权（例如你导入的图片不侵犯他人权益）。头像与昵称属于你自行设置的内容。  
+你对你在 Linely 中创建、导入或保存的内容承担全部责任，并保证你拥有相关权利或已获得必要授权（例如你导入的图片不侵犯他人权益）。头像与昵称、以及从通讯录导入生成的纪念日（仅标题与日期）均属于你自行设置或选择生成的内容。  
 请妥善保管你的设备与 Apple ID 账户信息。因你自身原因导致的数据丢失、泄露或不可用（例如误删、设备丢失、iCloud 关闭等），我们不承担责任。
 
 ## 5. 付费功能
@@ -65,12 +66,13 @@ Your avatar and nickname are stored only on your device and are not synced via i
 
 ## 3. Permissions
 The app may request system permissions (you can change them anytime in Settings), including:
-- Photos: to pick images or save exported posters to Photos;
+- Photos: to pick images (including profile avatar) or save exported posters to Photos;
 - Camera: to take photos and attach them to events or anniversaries;
+- Contacts: only to read contact names and birthdays so you can add “XX’s Birthday” as anniversaries; we do not upload or store your contacts;
 - Notifications: for anniversary reminders (local notifications).
 
 ## 4. Your Content & Responsibility
-You are responsible for any content you create, import, or store in Linely, and you represent that you have the necessary rights/authorizations (e.g., images you import do not infringe others’ rights). Your avatar and nickname are content you set yourself.  
+You are responsible for any content you create, import, or store in Linely, and you represent that you have the necessary rights/authorizations (e.g., images you import do not infringe others’ rights). Your avatar, nickname, and anniversaries generated from contacts (title and date only) are content you set or choose to generate yourself.  
 Please safeguard your device and Apple ID. We are not responsible for data loss, disclosure, or unavailability caused by factors under your control (e.g., deletion, lost device, iCloud disabled).
 
 ## 5. Premium Purchase 

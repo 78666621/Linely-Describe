@@ -22,12 +22,14 @@ Linely 不提供账号注册/登录功能，也不使用广告追踪或第三方
 - 海报导出与保存
 - 小组件展示（通过 App Groups 在本机与小组件之间共享必要数据）
 - 高级功能解锁（内购）
-- 本地展示头像与昵称
+- 本地展示头像与昵称（含从相册选择的自定义头像）
+- 从通讯录导入生日为纪念日（仅在你主动使用「从通讯录添加」时，在本地读取姓名与生日并生成纪念日，不上传通讯录）
 
 ## 4. 权限说明
 为实现功能，Linely 可能会向你请求以下系统权限（你可随时在系统设置中关闭）：
-- **相册权限**：用于从相册选择图片添加到事件或纪念日，或将生成的海报保存到相册。例如，你可以为某个纪念日选择一张相册照片作为封面，或将纪念日/事件海报保存到照片。
+- **相册权限**：用于从相册选择图片添加到事件或纪念日、设置个人头像，或将生成的海报保存到相册。例如，你可以为某个纪念日选择一张相册照片作为封面，或将纪念日/事件海报保存到照片。
 - **相机权限**：用于在应用内拍摄照片并添加到事件或纪念日。例如，你可以在创建纪念日时直接拍照作为封面。
+- **通讯录权限**：仅用于读取联系人中的**姓名与生日**，以便你一键将「XX的生日」添加为纪念日。我们**不上传、不存储**你的通讯录；仅在本地根据你选择联系人生成纪念日条目（标题与日期），你可随时在系统设置中关闭此权限。
 - **通知权限**：用于发送纪念日提醒通知（本地通知）。
 
 ## 5. 内购（StoreKit）
@@ -75,12 +77,14 @@ Only to provide core features, such as:
 - Poster export and saving
 - Widgets (sharing necessary data between the app and widgets via App Groups)
 - Premium unlock (in‑app purchase)
-- Displaying your avatar and nickname locally
+- Displaying your avatar and nickname locally (including a custom avatar chosen from Photos)
+- Importing birthdays from contacts as anniversaries (only when you use “Add from Contacts”; we read names and birthdays on device to create anniversaries and do not upload your contacts)
 
 ## 4. Permissions
 Linely may request system permissions (you can change them anytime in Settings):
-- **Photos**: to select images from your library for events or anniversaries, or to save generated posters to Photos. For example, you can choose a photo as an anniversary cover or save an anniversary/event poster to your library.
+- **Photos**: to select images from your library for events, anniversaries, or your profile avatar, or to save generated posters to Photos. For example, you can choose a photo as an anniversary cover or set a custom avatar.
 - **Camera**: to take photos within the app and attach them to events or anniversaries. For example, you can take a photo when creating an anniversary and use it as the cover.
+- **Contacts**: used only to read **names and birthdays** from your contacts so you can add “XX’s Birthday” as anniversaries in one tap. We do **not** upload or store your contacts; we only use the data on your device to create anniversary entries (title and date) for contacts you select. You can revoke this permission anytime in Settings.
 - **Notifications**: to deliver anniversary reminders (local notifications).
 
 ## 5. In‑app purchases (StoreKit)
